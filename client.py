@@ -8,6 +8,7 @@ import psutil
 import win32gui
 
 
+
 class Metrics:
     def __init__(self, name, func):
         self.name = name
